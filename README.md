@@ -7,3 +7,7 @@ This app uses Bootstrap to structure HTML template.
 Splinter to navigate the sites when needed and BeautifulSoup to help find and parse out the necessary data.
 
 Pymongo for CRUD applications for our database. 
+
+**Technologies Used:**
+
+HTML, Python, Jupyter Notebook.
